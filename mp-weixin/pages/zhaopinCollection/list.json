@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#276ace",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "职位收藏展示",
+  "usingComponents": {
+    "mescroll-uni": "/components/mescroll-uni/mescroll-uni"
+  }
+}
